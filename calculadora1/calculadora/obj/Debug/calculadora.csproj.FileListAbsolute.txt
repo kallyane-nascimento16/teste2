@@ -1,0 +1,11 @@
+C:\Users\SENAI\Documents\kallyane C#\calculadora1\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\SENAI\Documents\kallyane C#\calculadora1\calculadora\bin\Debug\calculadora.exe
+C:\Users\SENAI\Documents\kallyane C#\calculadora1\calculadora\bin\Debug\calculadora.pdb
+C:\Users\SENAI\Documents\kallyane C#\calculadora1\calculadora\obj\Debug\calculadora.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\kallyane C#\calculadora1\calculadora\obj\Debug\calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\SENAI\Documents\kallyane C#\calculadora1\calculadora\obj\Debug\calculadora.Form1.resources
+C:\Users\SENAI\Documents\kallyane C#\calculadora1\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\SENAI\Documents\kallyane C#\calculadora1\calculadora\obj\Debug\calculadora.csproj.GenerateResource.cache
+C:\Users\SENAI\Documents\kallyane C#\calculadora1\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\kallyane C#\calculadora1\calculadora\obj\Debug\calculadora.exe
+C:\Users\SENAI\Documents\kallyane C#\calculadora1\calculadora\obj\Debug\calculadora.pdb
